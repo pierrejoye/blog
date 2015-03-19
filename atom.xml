@@ -3,7 +3,7 @@
     <title><![CDATA[Sculpin Blog Skeleton]]></title>
     <link href="/atom.xml" rel="self"/>
     <link href="/"/>
-    <updated>2015-03-19T07:10:36+00:00</updated>
+    <updated>2015-03-19T10:10:53+00:00</updated>
     <id>/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
@@ -46,6 +46,8 @@ You can use either <code>~</code> or <code>`</code> to mark them.</p>
 
 <p>Like this addition to the skeleton? You can thank for <a href="https://github.com/Pawka">@Pawka</a>
 for suggesting it. :)</p>
+
+<p>Modification #1</p>
 ]]></content>
         </entry>
             <entry>
