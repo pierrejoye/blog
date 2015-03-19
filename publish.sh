@@ -5,7 +5,6 @@ fi
 
 # sculpin generate --env=prod
 
-git stash
 git checkout master
 
 cp -R output_prod/* .
@@ -16,4 +15,3 @@ git commit -m "$1"
 git push origin master 
 
 git checkout gh-pages 
-git stash pop
