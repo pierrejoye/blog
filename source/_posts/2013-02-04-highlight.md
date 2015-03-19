@@ -40,3 +40,5 @@ if ($fencedCodeBlock->syntax !== 'PHP') {
 ~~~
 Like this addition to the skeleton? You can thank for [@Pawka](https://github.com/Pawka)
 for suggesting it. :)
+
+Modification #1
